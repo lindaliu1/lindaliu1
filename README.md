@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **lindaliu1/lindaliu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+hi! welcome to my profile :) 
+
+a little about me:
+- studying computer science at ubc (graduating this spring!)
+- previously swe intern @ sap
+- interested in frontend development and all stages of the data lifecycle
+- big fan of marine wildlife and conservation
