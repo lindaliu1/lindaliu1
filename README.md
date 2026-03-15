@@ -18,7 +18,7 @@ hi! welcome to my profile :)
 a little about me:
 - studying computer science at ubc (graduating this spring!)
 - previously swe intern @ sap
-- interested in frontend development and all stages of the data lifecycle
-- big fan of marine wildlife and conservation
+- interested in frontend development, fullstack development, and all stages of the data lifecycle
+- big fan of marine wildlife, genetics, minecraft speedrunning, and wheel pottery
 
 i'm currently working on a project called our endangered oceans, combining my interests in marine conservation and the data lifecycle into an interactive visualization displaying endangered marine species. 
