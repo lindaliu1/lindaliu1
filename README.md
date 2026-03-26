@@ -20,5 +20,3 @@ a little about me:
 - previously swe intern @ sap
 - interested in frontend development, fullstack development, and all stages of the data lifecycle
 - big fan of marine wildlife, genetics, minecraft speedrunning, and wheel pottery
-
-i'm currently working on a project called our endangered oceans, combining my interests in marine conservation and the data lifecycle into an interactive visualization displaying endangered marine species. 
